@@ -204,6 +204,5 @@ Overall, the project showcases practical skills in database development, SQL ana
 
 Let's connect:
 
-[LinkedIn](https://www.linkedin.com/in/peace-ada-95b341341)
-[Portfolio](https://peace-ada.github.io/Data-Portfolio/)
-[Email](mailto:peaceada100@gmail.com)
+LinkedIn: [Peace Adaobi](https://www.linkedin.com/in/peace-ada-95b341341)  
+Email: [peaceada100@gmail.com](mailto:peaceada100@gmail.com)
