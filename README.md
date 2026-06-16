@@ -123,7 +123,8 @@ The dataset was populated with realistic business records to simulate day-to-day
 
 ### 1. How much revenue is the business generating?
 
-![Revenue Analysis](images/sql_revenue_kpi.png)
+![Revenue Analysis](images/sql_revenue_querry_kpi.png)
+![Revenue Analysis](images/sql_revenue_result_kpi.png)
 
 The business generated **₦15.6M** in total revenue across **40 orders** from **20 customers**, resulting in an average order value of **₦390,000**. The high average transaction value demonstrates strong customer spending and highlights the importance of maintaining customer retention and consistent sales performance.
 
@@ -131,6 +132,7 @@ The business generated **₦15.6M** in total revenue across **40 orders** from *
 
 ### 2. Which products are selling the most?
 
+![Top-selling Products](images/sql_top_products_querry.png)
 ![Top-selling Products](images/sql_top_products.png)
 
 Speaker is the best-selling product with **28 units sold**, followed by Mouse with **25 units**. Electronics is the highest-performing category overall, while Rice leads within the Food category. These products are the primary drivers of sales and should remain a key focus for inventory planning.
@@ -139,6 +141,7 @@ Speaker is the best-selling product with **28 units sold**, followed by Mouse wi
 
 ### 3. Who are our most valuable customers?
 
+![Top Customers](images/sql_customer_ranking_querry.png)
 ![Top Customers](images/sql_customer_ranking.png)
 
 The top three customers contribute a significant share of total revenue, with **Ava Scott** spending **₦2,774,000**. Retaining these high-value customers is essential for sustaining revenue growth and strengthening long-term business performance.
@@ -147,6 +150,7 @@ The top three customers contribute a significant share of total revenue, with **
 
 ### 4. Which products need restocking urgently?
 
+![Inventory Analysis](images/sql_restocking_querry.png)
 ![Inventory Analysis](images/sql_restocking.png)
 
 Speaker, Mouse, and Rice recorded the highest sales volumes, reflecting strong and consistent customer demand. Prioritising inventory replenishment for these products will help minimise stockouts and reduce the risk of lost sales.
@@ -155,6 +159,7 @@ Speaker, Mouse, and Rice recorded the highest sales volumes, reflecting strong a
 
 ### 5. Which suppliers are performing best?
 
+![Supplier Performance](images/sql_supplier_performance_querry.png)
 ![Supplier Performance](images/sql_supplier_performance.png)
 
 Global Traders supplied the highest sales volume, followed by Mega Distributors and Food World. While these suppliers play an important role in supporting business operations, monitoring supplier dependency can help improve supply chain resilience and reduce operational risk.
