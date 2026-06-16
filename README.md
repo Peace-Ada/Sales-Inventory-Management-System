@@ -1,5 +1,5 @@
-# SALES & INVENTORY MANAGEMENT SYSTEM
-# SQL Database Design · Business Intelligence · Power BI Dashboard
+# Sales & Inventory Management System
+### End-to-End SQL Database Design, Business Analysis & Power BI Dashboard Development
 ---
 
 # Table of Contents
